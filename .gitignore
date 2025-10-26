@@ -1,0 +1,16 @@
+echo # Flutter > .gitignore
+echo .flutter-plugins >> .gitignore
+echo .flutter-plugins-dependencies >> .gitignore
+echo .packages >> .gitignore
+echo .dart_tool/ >> .gitignore
+echo build/ >> .gitignore
+echo android/app/debug/ >> .gitignore
+echo android/app/profile/ >> .gitignore
+echo android/app/release/ >> .gitignore
+echo ios/DerivedData/ >> .gitignore
+echo *.iml >> .gitignore
+echo *.metadata >> .gitignore
+echo .DS_Store >> .gitignore
+echo Thumbs.db >> .gitignore
+echo .vscode/ >> .gitignore
+echo .idea/ >> .gitignore

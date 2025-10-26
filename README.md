@@ -10,7 +10,13 @@ A feature-rich, cross-platform To-Do List application built with Flutter that he
 
 ## 📱 App Preview
 
-![App Screenshot](https://via.placeholder.com/300x600/4A90E2/FFFFFF?text=To-Do+List+App)
+<img src="WhatsApp Image 2025-10-27 at 12.58.23 AM.jpeg" width="200" alt="Home Screen">
+<img src="WhatsApp Image 2025-10-27 at 12.58.23 AM (1).jpeg" width="200" alt="Home Screen">
+<img src="WhatsApp Image 2025-10-27 at 12.58.23 AM (2).jpeg" width="200" alt="Home Screen">
+<img src="WhatsApp Image 2025-10-27 at 12.58.23 AM (3).jpeg" width="200" alt="Home Screen">
+<img src="WhatsApp Image 2025-10-27 at 12.58.23 AM (4).jpeg" width="200" alt="Home Screen">
+<img src="WhatsApp Image 2025-10-27 at 12.58.23 AM (5).jpeg" width="200" alt="Home Screen">
+<img src="WhatsApp Image 2025-10-27 at 12.58.23 AM (6).jpeg" width="200" alt="Home Screen">
 
 ## ✨ Features
 
